@@ -22,9 +22,11 @@ My material ?
 ------------
 Since Udacity courses, i start to use MS OneNote 
 First of all, i store the learning path of the course, extract titles in order to reproduce the course structure
+
 ![image](https://user-images.githubusercontent.com/79169883/130522954-4cb98ab7-d51b-40ff-97a2-7d81e0f6c1b0.png)
 
 Then, for each module, i'm use section ofr each part.
+
 ![image](https://user-images.githubusercontent.com/79169883/130522928-924d9465-2e30-41a6-a388-b02c036c92d1.png)
 
 This allow me to nagivate more effictienlty when i need to browse the matierial.

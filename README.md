@@ -6,7 +6,7 @@ Why this course ?
 ------------
 Since severals years, i', design, build ,run on-premise infrastructures.\
 Some Hybrid hyperconverged systems (spoil, it"s no time) courses lead me to make on-prem and cloud to communicate.\
-So after studing hybrid environments, i feel the need to go deeper in the cloud , starting with AWS.\
+So after studing hybrid environments, i feel the need to go deeper in the cloud , starting with AWS.
 
 Why chose this course ?
 ------------
@@ -21,7 +21,7 @@ The available AWS certifications bring me and overview and steps
 My material ?
 ------------
 Since Udacity courses, i start to use MS OneNote.\
-First of all, i store the learning path of the course, extract titles in order to reproduce the course structure.\
+First of all, i store the learning path of the course, extract titles in order to reproduce the course structure.
 
 ![image](https://user-images.githubusercontent.com/79169883/130522954-4cb98ab7-d51b-40ff-97a2-7d81e0f6c1b0.png)
 

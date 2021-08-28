@@ -11,13 +11,22 @@ https://efundies.com/onenote-command-line-interface/ \
 https://efundies.com/how-to-create-a-onenote-page-from-the-command-line/
 
 
-Learning objectives
+Hight light of the part
+--
+1. Module 2 introduction
+2. Amazon EC2 instance types
+3. Amazon EC2 pricing
+4. Scaling Amazon EC2
+5. Directing traffic with Elastic Load Balancing
+6. Messaging and queuing
+7. Additional compute services
+8. Module 2 summary
+Module 2 quiz
+
+Summary
 --
 
-Amazon Elastic Compute Cloud (Amazon EC2)
---
-
-How Amazon EC2 works
+Quick notes
 --
 
 

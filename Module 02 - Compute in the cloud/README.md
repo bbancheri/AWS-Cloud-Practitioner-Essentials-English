@@ -7,7 +7,7 @@ About
 Nothing regarding the course, but during I was creating folders and subfolders of my OneNote workbook, i'm asking myslef if i was possible to automate this process.\
 Google told me it is ;)\
 This week, i have to setup a small script using this webpage : \
-https://efundies.com/onenote-command-line-interface/
+https://efundies.com/onenote-command-line-interface/ \
 https://efundies.com/how-to-create-a-onenote-page-from-the-command-line/
 
 

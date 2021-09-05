@@ -32,8 +32,8 @@ In the end course introduce serverless computing AWS Eargate, far from my SysOps
 
 Quick notes
 --
-Just make a copy past of end additionnals ressources.
-I found them usefull \
+Just make a copy past of end additionnals ressources.\
+I found them usefull.
 
 * [Compute on AWS](https://aws.amazon.com/products/compute/ "Compute on AWS")
 * [AWS Compute Blog](https://aws.amazon.com/blogs/compute/ "AWS Compute Blog")

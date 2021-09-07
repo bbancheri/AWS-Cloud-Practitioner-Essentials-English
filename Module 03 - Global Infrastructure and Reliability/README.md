@@ -4,10 +4,7 @@ Module 03 - Global Infrastructure and Reliability
 
 About
 ------------
-Purpose of this section is to introduce availability to be think by design when build cloud infrastructure.\
-Avalability Zones, Regions, Elastic Load Balancing, SQS, SNS, Edge Location, then Management Console, SDK, Cli Benstalk and CloudFormation are shown in a way to make you think realibility, availability, automation, repeatable deployement.\
-In the end , in a way to setup infrastructure as a code 
-
+My main goal was to discovers the pendant of Nutanix Calm in AWS infrastructure. Now, i have to go more deeper in AWS Beanstalk and CloudFormation.
 
 Hight light of the part
 --
@@ -20,7 +17,9 @@ Hight light of the part
 
 Summary
 --
-See about section
+Purpose of this section is to introduce availability to be think by design when build cloud infrastructure.\
+Avalability Zones, Regions, Elastic Load Balancing, SQS, SNS, Edge Location, then Management Console, SDK, Cli, Beanstalk and CloudFormation are shown in a way to make you think realibility, availability, automation, repeatable deployement.\
+In the end , in a way to setup infrastructure as a code.
 
 Quick notes
 --

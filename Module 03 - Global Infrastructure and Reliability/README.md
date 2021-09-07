@@ -4,7 +4,7 @@ Module 03 - Global Infrastructure and Reliability
 
 About
 ------------
-My main goal was to discovers the pendant of Nutanix Calm in AWS infrastructure. Now, i have to go more deeper in AWS Beanstalk and CloudFormation.
+My main goal was to discovers the pendant of `Nutanix Calm` in AWS infrastructure. Now, i have to go more deeper in `AWS Beanstalk` and `AWS CloudFormation`.
 
 Hight light of the part
 --

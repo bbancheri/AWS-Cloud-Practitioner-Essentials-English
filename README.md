@@ -4,7 +4,7 @@ A , some journey, in course AWS Cloud Practitioner Essentials (English)
 
 Why this course ?
 ------------
-Since severals years, i', design, build ,run on-premise infrastructures.\
+Since severals years, i'm design, build ,run on-premise infrastructures.\
 Some Hybrid hyperconverged systems (spoil, it"s no time) courses lead me to make on-prem and cloud to communicate.\
 So after studing hybrid environments, i feel the need to go deeper in the cloud , starting with AWS.
 

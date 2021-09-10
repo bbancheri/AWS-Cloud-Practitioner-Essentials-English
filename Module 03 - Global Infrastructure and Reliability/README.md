@@ -9,7 +9,7 @@ My main goal was to discovers the pendant of `Nutanix Calm` in AWS infrastructur
 Hight light of the part
 --
 1. Module 3 introduction
-2. AWS global infrastructureAWS global infrastructure
+2. AWS global infrastructure
 3. Edge locationsEdge locations
 4. How to provision AWS resources
 5. Module 3 summary

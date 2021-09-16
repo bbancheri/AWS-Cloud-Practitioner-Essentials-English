@@ -34,3 +34,12 @@ Quick notes
 Just make a copy past of end additionnals ressources.\
 I found them usefull.
 
+* [Cloud Storage on AWS](https://aws.amazon.com/fr/products/storage/ "Cloud Storage on AWS")
+* [AWS Storage Blog](https://aws.amazon.com/fr/blogs/storage/ "AWS Storage Blog")
+* [Hands-On Tutorials: Storage](https://aws.amazon.com/fr/getting-started/hands-on/?awsf.getting-started-category=category%23storage&awsf.getting-started-content-type=content-type%23hands-on&awsf.getting-started-level=*all "Hands-On Tutorials: Storage")
+* [AWS Customer Stories: Storage](https://aws.amazon.com/fr/solutions/case-studies/?customer-references-cards.sort-by=item.additionalFields.publishedDate&customer-references-cards.sort-order=desc&awsf.customer-references-location=*all&awsf.customer-references-segment=*all&awsf.customer-references-product=product%23vpc%7Cproduct%23api-gateway%7Cproduct%23cloudfront%7Cproduct%23route53%7Cproduct%23directconnect%7Cproduct%23elb&awsf.customer-references-category=category%23storage&awsf.language=language%23french&awsf.customer-references-industry=*all&awsf.customer-references-use-case=*all "AWS Customer Stories: Storage")
+* [AWS Database Migration Service](https://aws.amazon.com/fr/dms/ "AWS Database Migration Service")
+* [Databases on AWS](https://aws.amazon.com/fr/products/databases/ "Databases on AWS")
+* [Category Deep Dive: Databases](https://aws.amazon.com/fr/getting-started/deep-dive-databases/ "Category Deep Dive: Databases")
+* [AWS Database Blog](https://aws.amazon.com/fr/blogs/database/ "AWS Database Blog")
+* [AWS Customer Stories: Databases](https://aws.amazon.com/fr/solutions/case-studies/?customer-references-cards.sort-by=item.additionalFields.publishedDate&customer-references-cards.sort-order=desc&awsf.customer-references-location=*all&awsf.customer-references-segment=*all&awsf.customer-references-product=product%23vpc%7Cproduct%23api-gateway%7Cproduct%23cloudfront%7Cproduct%23route53%7Cproduct%23directconnect%7Cproduct%23elb&awsf.customer-references-category=category%23databases&awsf.language=language%23french&awsf.customer-references-industry=*all&awsf.customer-references-use-case=*all "AWS Customer Stories: Databases")

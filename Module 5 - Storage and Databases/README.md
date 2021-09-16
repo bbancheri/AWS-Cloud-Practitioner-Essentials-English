@@ -23,8 +23,10 @@ Hight light of the part
 
 Summary
 --
-In this section, in a first hand, AWS present files services such as instance store (non persistent), Amazon Elastic Block Store (EBS), Amazon Simple Storage Service (S3) and S3 storage classes.\ 
-In a second part, we have and overview of Elastic File system, which is a redundant (multi AZ, mono region), scalable file system. \
+In this section, in a first hand, AWS present files services such as instance store (non persistent), Amazon Elastic Block Store (EBS), Amazon Simple Storage Service (S3) and S3 storage classes.
+
+In a second part, we have and overview of Elastic File system, which is a redundant (multi AZ, mono region), scalable file system.
+
 In a last hand, the course present database AWS offer : relationnal (Amazon RDS) and nonrelational databases (Amazon DynamoDB), data wharehouse (Amazon Redshit), migration services (AWS DMS) and specific databases types (MongoDB with AWS DocuementDB, graph databases with Amazon Neptune, Amazon Managed Blockchain, secure audi databases with Amazon Quantum Ledger Databases) and accelerators for thoses services (ElastiCache and DynamoDB Accelerator) 
 
 Quick notes

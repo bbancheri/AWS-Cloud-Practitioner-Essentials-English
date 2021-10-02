@@ -5,7 +5,7 @@ Module 6 - Security
 About
 ------------
 I have need to focus on lessons last 2 weeks, achieve lessons one after others. When writing this summary, i'm currently study Module 7 - Monitoring and analytics. So i have to go back into my OneNote workbook in order to go back in my mind ;-)\
-This module deals with Amazon security concepts sucha at Shared Secority model, Identity ans Access Management (IAM), Compilance, DDoS, cryptography and several firewalling services.
+This module deals with Amazon security concepts such aShared Security Model, Identity ans Access Management (IAM), Compilance, DDoS, cryptography and several firewalling services.
 
 Hight light of the part
 --

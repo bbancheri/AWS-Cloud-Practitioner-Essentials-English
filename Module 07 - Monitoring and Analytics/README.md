@@ -44,7 +44,9 @@ The last component of this module is a web service, `AWS Trusted Advisor`, that 
 * Security
 * Fault tolerance
 * Service limits
- AWS Trusted Advisor |
+
+
+AWS Trusted Advisor |
 | :---: 
 | ![image](https://user-images.githubusercontent.com/79169883/137801821-1a00eb71-b665-4283-900f-c26944180b0f.png) |
 | ![image](https://user-images.githubusercontent.com/79169883/137801658-1e302468-bb94-4631-a7cd-93000d537933.png) | 

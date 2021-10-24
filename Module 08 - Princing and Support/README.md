@@ -4,7 +4,7 @@ Module 8 - Princing and Support
 
 About
 ------------
-In thso section, we learn more about `AWS Free Tier` program (Always Free, 12 months Free and Trials), the  AWS princing and `ÀWS Pricing Calculator`, the `AWS Billing & Cost Management dashboard`, the `consolidated billing` with `AWS Organisations`, `AWS Budget`, `AWS Cost Explorer` , severals levels of `AWS Support plans` and the `AWS Marketplace`.  
+In this section, we learn more about `AWS Free Tier` program (Always Free, 12 months Free and Trials), the  AWS princing and `ÀWS Pricing Calculator`, the `AWS Billing & Cost Management dashboard`, the `consolidated billing` with `AWS Organisations`, `AWS Budget`, `AWS Cost Explorer` , severals levels of `AWS Support plans` and the `AWS Marketplace`.  
 
 Hight light of the part 
 --
@@ -22,10 +22,14 @@ Hight light of the part
 
 Summary
 --
-In the fist section, we learn more about the tree `AWS Free Tier` offert hat are available
+In the first section, we learn more about the tree `AWS Free Tier` offert hat are available
 * Always Free : this offer available for all customers will never expire, it include for example 10 AWS CloudWatch statistics, 1 million AWS Lambra request, 25gb AWS DynamoDB , 1k operations in AWS CloudFormation (AWS blueprint), A million AWS SQS request ...
 * 12 Months Free : provide access to limited time and volume AWS ressources, such as 750 hours EC2 per months , or 5 gb S3 standard, 5gb AWS EFS, 30gb AWS EBS,  750 hours AWS ELB per months, and much more 
 * Trials : 40 hours of AWS WorkSpace a vdi offer, 2200 hours for 6 months of AWS ECS Anywhere, 2 months of AWS Redshift the data wharehousing service, 25 hours for discover AWS RoboMaker ;), 2 months AWS Fraud Detector, 30 days of AWS Detective, 30 day of AWS GuardDuty, 90 day Amazon Inspector and much more.
+
+The second section covers `AWS pricing concepts`,the AWS Pricing Calculator and go deeper in Pays as you use and Pay less when you reserve, with some examples.
+
+Then, we discover `AWS Billing & Cost management Dashboard` which allow customer to monitor usage, analyse cost per service. `Cost Explorer` provide ability to create budget. in `AWS Billing & Cost management Dashboard` customer can also purchase and manage Saving Plans, and publish AWS cost and usage reports.
 
 
  |  |  |  |  |

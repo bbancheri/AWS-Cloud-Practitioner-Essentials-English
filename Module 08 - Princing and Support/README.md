@@ -31,6 +31,7 @@ The second section covers `AWS pricing concepts`,the AWS Pricing Calculator and 
 
 Then, we discover `AWS Billing & Cost management Dashboard` which allow customer to monitor usage, analyse cost per service. `Cost Explorer` provide ability to create budget. in `AWS Billing & Cost management Dashboard` customer can also purchase and manage Saving Plans, and publish AWS cost and usage reports.
 
+`AWS Organisations` allow to manage pultiple AWS accounts and consolidate costs of them ressources usage in order to share discount pricing between accounts. The `default maximum number of account is 4` (AWS support can increase it).   
 
  |  |  |  |  |
 | :---: | :---: | :---: | :---: | :---:

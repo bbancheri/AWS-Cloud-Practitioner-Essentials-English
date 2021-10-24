@@ -29,11 +29,44 @@ In the first section, we learn more about the tree `AWS Free Tier` offert hat ar
 
 The second section covers `AWS pricing concepts`,the AWS Pricing Calculator and go deeper in Pays as you use and Pay less when you reserve, with some examples.
 
-Then, we discover `AWS Billing & Cost management Dashboard` which allow customer to monitor usage, analyse cost per service. `Cost Explorer` provide ability to create budget. in `AWS Billing & Cost management Dashboard` customer can also purchase and manage Saving Plans, and publish AWS cost and usage reports.
+In third section, we discover `AWS Billing & Cost management Dashboard` which allow customer to monitor usage, analyse cost per service. `Cost Explorer` provide ability to create budget. In `AWS Billing & Cost management Dashboard` customer can also purchase and manage Saving Plans, and publish AWS cost and usage reports.
+Billing & Cost Management Dashboard | Cost Explorer |
+| :---: | :---: 
+|![image](https://user-images.githubusercontent.com/79169883/138611936-894687bb-bc71-47d9-a2d6-30ab2a22c30c.png)|![image](https://user-images.githubusercontent.com/79169883/138612014-2941d39a-b6fd-4ef2-9ec2-372c808164ba.png)|
 
-`AWS Organisations` allow to manage pultiple AWS accounts and consolidate costs of them ressources usage in order to share discount pricing between accounts. The `default maximum number of account is 4` (AWS support can increase it).   
+`AWS Organisations` allow to manage pultiple AWS accounts and consolidate costs of them ressources usage in order to share discount pricing between accounts. The `default maximum number of account is 4` (AWS support can increase it).
 
- |  |  |  |  |
+`AWS Budgets` present the ability to create budget to plan service usage, service cost and instance reservation, applying to customer plans or Free Tiers limits. Customer can setup emails alerts when usage is forecast to exceed or exceed the budgeted amount planned.
+
+Budget wizard | Step 1 | Step 2 | Step 3 | Step 4 | Step 5 | Review | Budget example |
+| :---:| :---:| :---:| :---:| :---:| :---:| :---:| :---:
+|![image](https://user-images.githubusercontent.com/79169883/138612281-a890c5e0-cf9d-45e8-afd0-39e340ee98c2.png)|![image](https://user-images.githubusercontent.com/79169883/138612292-c20a071e-4059-41a2-af87-421f71b17bab.png)| ![image](https://user-images.githubusercontent.com/79169883/138612302-bbef1c64-ef7c-4af8-ad8d-b33bfa4ac2e0.png)|![image](https://user-images.githubusercontent.com/79169883/138612307-537b95ff-e221-4be9-8558-d9b30f61fc2f.png)|![image](https://user-images.githubusercontent.com/79169883/138612422-8c4e5d7d-1c9e-4c3b-9f5d-4711c93f8f9f.png)|![image](https://user-images.githubusercontent.com/79169883/138612459-e8d91f5f-3422-44c7-91e9-c26a5f4db6ef.png)|![image](https://user-images.githubusercontent.com/79169883/138612529-cf3129f3-9f64-4d92-8ce7-082e4d9f612c.png)|![image](https://user-images.githubusercontent.com/79169883/138612552-d0ef2064-0ee5-4c8f-ae97-0e6ee5bd5a8d.png)|
+
+`AWS Cost Explorer` enable customer to visualize, understant and manage AWS cost and usage over the time, including a default report on 5 top cost-accuring customer services.
+AWS Cost Explorer |
+| :---:
+|![image](https://user-images.githubusercontent.com/79169883/138612727-c840d9ae-0e77-4f38-8bdd-df56f3df5294.png)|
+
+`AWS Support plans`
+* Basic
+    * Include limited selection of AWS Trusted Advisor checks
+* Developer
+    * Best practice guidance
+    * Client-side diagnostic tools
+* business
+    * First step that incluse Trusted Advisor checks
+    * Limited support for third-party software
+* entreprise
+    * Application architecture guidande
+    * Infrastructure management
+    * Include Technical Account Manager
+
+`AWS Marketplace`
+AWS Marketplace products|
+| :---:
+|![image](https://user-images.githubusercontent.com/79169883/138613408-8f2118ab-a95f-4857-8c7f-dfad21802899.png)|
+
+|  |  |  |  |
 | :---: | :---: | :---: | :---: | :---:
 | | | | | | 
 

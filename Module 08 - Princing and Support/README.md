@@ -4,7 +4,7 @@ Module 8 - Princing and Support
 
 About
 ------------
-In thso section, we learn more about `AWS Free Tier` program (Always Free, 12 months Free and Trials), the  AWS princing and `ÀWS Pricing Calculator`, the `AWS Billing & Cost Management dashboard`, the Consolidated billing with `AWS Organisations`, `AWS Budget`, `AWS Cost Explorer` , severals levels of `AWS Support plans` and the `AWS Marketplace`.  
+In thso section, we learn more about `AWS Free Tier` program (Always Free, 12 months Free and Trials), the  AWS princing and `ÀWS Pricing Calculator`, the `AWS Billing & Cost Management dashboard`, the `consolidated billing` with `AWS Organisations`, `AWS Budget`, `AWS Cost Explorer` , severals levels of `AWS Support plans` and the `AWS Marketplace`.  
 
 Hight light of the part 
 --

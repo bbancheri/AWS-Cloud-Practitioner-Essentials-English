@@ -25,10 +25,10 @@ Module 2 quiz
 
 Summary
 --
-This section deal with somes concepts already learn in Nutanix Udacity Hybrid cloud engineer course : price model, vertical and horizonta scaling, load balancing (front and back end).\
-When discovering messaging services (Amazon Simple Queue Service SQS and Amazon Simple Notification Services SNS), it reminde me an make me a confusion with ETL / ESB systmes (which are Amazone Glue in fact). What ever, SQS and SNS are queues services that introduce microsegmentation and subcription. I am eager to see if use of the http push notification via SNS compared to SQS, is the first (SNS) have use case when the second (SQS) is designed for ?\
-Then, this module present Amazon containers services (Dockers and Kubernetes) for the newbies. This first educational appoarch, step by step, with how and why is a good introduction. I do not see in table of contents some modules go deeper for those matter. This should give rise to other courses.\
-In the end course introduce serverless computing AWS Eargate, far from my SysOps jobs. This part will be usefull for me to know why companies start with technologies, and how and why can they be migrated to virtual instances.
+This section deal with somes concepts already learn in Nutanix Udacity Hybrid cloud engineer course : price model, vertical and horizontal scaling, load balancing (front and back end).\
+When discovering messaging services (Amazon `Simple Queue Service SQS` and `Amazon Simple Notification Services SNS`), it reminde me an make me a confusion with ETL / ESB systmes (which are Amazone Glue in fact). What ever, `SQS` and `SNS` are queues services that introduce `microsegmentation` and `subcription`. I am eager to see if use of the http push notification via SNS compared to SQS, is the first (SNS) have use case when the second (SQS) is designed for ?\
+Then, this module present `Amazon containers services` (Dockers and Kubernetes) for the newbies. This first educational appoarch, step by step, with how and why is a good introduction. I do not see in table of contents some modules go deeper for those matter. This should give rise to other courses.\
+In the end course introduce `serverless computing AWS Eargate`, far from my SysOps jobs. This part will be usefull for me to know why companies start with technologies, and how and why can they be migrated to virtual instances.
 
 Quick notes
 --
